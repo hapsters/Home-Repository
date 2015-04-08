@@ -6,10 +6,10 @@ Here you will find all kinds of information regarding the workings of the club
 
 <h3>Table Of Contents:</h3>
 <ul>
-<li><a href="">Purpose/Objective</a></li>
-<li><a href="">Meetings</a></li>
-<li><a href="">Projects</a></li>
-<li><a href="">Guest Speakers</a></li>
+<li><a href="#Purpose/Objective">Purpose/Objective</a></li>
+<li><a href="Meetings">Meetings</a></li>
+<li><a href="Projects">Projects</a></li>
+<li><a href="Guest Speakers">Guest Speakers</a></li>
 </ul>
 
 <h3 id="Purpose/Objective">Purpose/Objective</h3>
