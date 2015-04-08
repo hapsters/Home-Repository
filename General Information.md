@@ -7,9 +7,9 @@ Here you will find all kinds of information regarding the workings of the club
 <h3>Table Of Contents:</h3>
 <ul>
 <li><a href="#Purpose/Objective">Purpose/Objective</a></li>
-<li><a href="Meetings">Meetings</a></li>
-<li><a href="Projects">Projects</a></li>
-<li><a href="Guest Speakers">Guest Speakers</a></li>
+<li><a href="#Meetings">Meetings</a></li>
+<li><a href="#Projects">Projects</a></li>
+<li><a href="#Guest Speakers">Guest Speakers</a></li>
 </ul>
 
 <h3 id="Purpose/Objective">Purpose/Objective</h3>
@@ -44,4 +44,4 @@ Examples include Google staff members, professors, and Bill Gates.  Since the gu
 school day, guest speakers will most likely come in earlier.  Members wanting to attend will receive a 2A form permitting
 them to leave class in order to come.  
 
-<a href="https://github.com/MtLebanonComputerClub/MtLebanonComputerClub/">Return to Homepage</a>
+<a href="https://github.com/MtLebanonComputerClub/Home-Repository/">Return to Homepage</a>
