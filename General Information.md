@@ -14,7 +14,7 @@ Here you will find all kinds of information regarding the workings of the club
 
 <h3 id="Purpose/Objective">Purpose/Objective</h3>
 
-The Mt. Lebanon Computer Club was created o provide students who have an interest in computers with an opportunity to 
+The Mt. Lebanon Computer Club was created to provide students who have an interest in computers with an opportunity to 
 gather and share knowledge, collaborate on simple projects, and possibly assist the school Technology 
 
 <h3 id="Meetings">Meetings</h3>
@@ -24,7 +24,8 @@ opportunity to gather and share information.  Members can share anything from a 
 new concept/idea they have learned.  Meetings are meant to be a time where members can ask/talk/present to most of the
 group.  Work on club projects/individual projects must be done outside of these meetings. 
 
-<a href="">Click here for a meeting schedule</a>
+<a href="https://www.google.com/calendar/embed?src=mtlstudents.net_16fv6t3c9hpduv7fj8i4eopa7k%40group.calendar.google.com&ctz=America/New_York 
+">Click here for a meeting schedule</a> (Note: You can add/edit events through the main Google Calendar interface)
 
 <h3 id="Projects">Group/Individual Projects</h3>
 
