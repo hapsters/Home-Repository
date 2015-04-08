@@ -5,3 +5,5 @@
 You can find links to these resources on this repository's wiki located in the side bar.
 
 Additionally, you can check above for helpful files or examples to refer to.
+
+Looking for more information?  Check out the <a href="https://github.com/MtLebanonComputerClub/MtLebanonComputerClub/blob/master/General%20Information.md">General Information</a> page
