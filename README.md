@@ -6,4 +6,4 @@ You can find links to these resources on this repository's wiki located in the s
 
 Additionally, you can check above for helpful files or examples to refer to.
 
-Looking for more information?  Check out the <a href="https://github.com/MtLebanonComputerClub/MtLebanonComputerClub/blob/master/General%20Information.md">General Information</a> page
+Looking for more information?  Check out the <a href="https://github.com/MtLebanonComputerClub/Home-Repository/blob/master/General%20Information.md">General Information</a> page
