@@ -29,7 +29,7 @@ Here is a list of resources that may help when you encounter a problem when prog
 <li>Oracle has both <a href="http://docs.oracle.com/javase/7/docs/api/">documentation for java</a> and a <a href="https://docs.oracle.com/javase/tutorial/">guide to java</a></li>
 <li><a href="http://www.lighthouse3d.com/">Lighthouse 3D</a> has plenty of guides for openGL</li>
 <li>If you need tools to develope, check out <a href="https://education.github.com/pack">GitHub's Student Developer Pack</a></li>
-<li>And of course, consult <a href="www.google.com">Google</a></li>
+<li>And of course, consult <a href="https://www.google.com/">Google</a></li>
 </ul>
 
 <h3 id="AddStuff">Adding Resources</h3>
