@@ -24,11 +24,11 @@ you started. A few favorites:
 <h3 id="Programming">Programming Resources</h3>
 Here is a list of resources that may help when you encounter a problem when programming:
 <ul>
-<li><a herf="http://stackoverflow.com/">Stack Overflow</a> is a great place to find answers to a specific question</li>
-<li><a herf="http://www.cprogramming.com/">CProgramming</a> is great for when you have to use C or C++</li>
-<li>Oracle has both <a herf="http://docs.oracle.com/javase/7/docs/api/">documentation for java</a> and a <a herf="https://docs.oracle.com/javase/tutorial/">guide to java</a></li>
-<li><a herf="http://www.lighthouse3d.com/">Lighthouse 3D</a> has plenty of guides for openGL</li>
-<li>If you need tools to develope, check out <a herf="https://education.github.com/pack">GitHub's Student Developer Pack</a></li>
+<li><a href="http://stackoverflow.com/">Stack Overflow</a> is a great place to find answers to a specific question</li>
+<li><a href="http://www.cprogramming.com/">CProgramming</a> is great for when you have to use C or C++</li>
+<li>Oracle has both <a href="http://docs.oracle.com/javase/7/docs/api/">documentation for java</a> and a <a href="https://docs.oracle.com/javase/tutorial/">guide to java</a></li>
+<li><a href="http://www.lighthouse3d.com/">Lighthouse 3D</a> has plenty of guides for openGL</li>
+<li>If you need tools to develope, check out <a href="https://education.github.com/pack">GitHub's Student Developer Pack</a></li>
 </ul>
 
 <h3 id="AddStuff">Adding Resources</h3>
