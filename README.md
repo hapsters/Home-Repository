@@ -1,6 +1,7 @@
-# MtLebanonComputerClub
-This is the general repo for info related to the new Mt. Lebanon Computer Science Club, or whatever it's called.
+# Mt. Lebanon Computer Club
 
-Feel free to edit as you please. I'd also like to see use in the wiki, but that's up for debate.
+<h5>The Mt. Lebanon Computer Club Home Repository contains a multitude of helpful resources at your disposal.</h5>
 
-In other words, everything is up for changes and modifications.
+You can find links to these resources on this repository's wiki located in the side bar.
+
+Additionally, you can check above for helpful files or examples to refer to.
