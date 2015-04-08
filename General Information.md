@@ -25,7 +25,7 @@ new concept/idea they have learned.  Meetings are meant to be a time where membe
 group.  Work on club projects/individual projects must be done outside of these meetings. 
 
 <a href="https://www.google.com/calendar/embed?src=mtlstudents.net_16fv6t3c9hpduv7fj8i4eopa7k%40group.calendar.google.com&ctz=America/New_York 
-">Click here for a meeting schedule</a> (Note: You can add/edit events through the main Google Calendar interface)
+" target="_blank">Click here for a meeting schedule</a> (Note: You can add/edit events through the main Google Calendar interface)
 
 <h3 id="Projects">Group/Individual Projects</h3>
 
