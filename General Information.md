@@ -43,3 +43,5 @@ When possible, the Mt. Lebanon Computer Club will have guest speakers come in to
 Examples include Google staff members, professors, and Bill Gates.  Since the guest speakers rarely have time after our 
 school day, guest speakers will most likely come in earlier.  Members wanting to attend will receive a 2A form permitting
 them to leave class in order to come.  
+
+<a href="https://github.com/MtLebanonComputerClub/MtLebanonComputerClub/">Return to Homepage</a>
