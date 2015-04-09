@@ -5,7 +5,8 @@ Below is an ever-changing list of resources.
 <h3>Table Of Contents:</h3>
 <ul>
 <li><a href="#GitHub">How to GitHub</a></li>
-<li><a href="#Programming">Programming Resources</a></li>
+<li><a href="#Programming Tools">Programming Tools</a></li>
+<li><a href="#Programming Help">Programming Resources</a></li>
 <li><a href="#AddStuff">Adding Resources</a></li>
 </ul>
 
@@ -21,7 +22,14 @@ you started. A few favorites:
 <li><a href="https://guides.github.com/activities/contributing-to-open-source/#contributing" target="_blank">Contributing to Open Source</a></li>
 </ul>
 
-<h3 id="Programming">Programming Resources</h3>
+<h3 id="Programming Tools">Programming Tools</h3>
+Below is a list of the more popular tools to develope code:
+<ul>
+<li><a href="https://www.visualstudio.com/products/visual-studio-community-vs">Microsoft Visual Studios Community</a>: is an IDE for VB, C++, Python, HTML, and JavaScript</li>
+<li><a href="http://www.eclipse.org/">Eclipse</a> is an IDE for java and java-related languages</li>
+</ul>
+
+<h3 id="Programming Help">Programming Resources</h3>
 Here is a list of resources that may help when you encounter a problem when programming:
 <ul>
 <li><a href="http://stackoverflow.com/">Stack Overflow</a> is a great place to find answers to a specific question</li>
