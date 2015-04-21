@@ -23,21 +23,20 @@ you started. A few favorites:
 </ul>
 
 <h3 id="Programming Tools">Programming Tools</h3>
-Below is a list of the more popular tools to develope code:
+<strong>GitHub offers a series of tools to student programmers for free in its <a href="https://education.github.com/pack">Student Developer Pack</a></strong>.  It is strongly encouraged that you take advantage of this kind offer, but if you prefer individual tools as opposed to a bundle, I have included a list containing links to the more popular tools used to develop code:
 <ul>
 <li><a href="https://www.visualstudio.com/products/visual-studio-community-vs">Microsoft Visual Studios Community</a>: is an IDE for VB, C++, Python, HTML, and JavaScript</li>
 <li><a href="http://www.eclipse.org/">Eclipse</a> is an IDE for java and java-related languages</li>
 </ul>
 
 <h3 id="Programming Help">Programming Resources</h3>
-Here is a list of resources that may help when you encounter a problem when programming:
+Here is a list of resources that may help when you encounter a problem while programming:
 <ul>
 <li><a href="http://stackoverflow.com/">Stack Overflow</a> is a great place to find answers to a specific question</li>
 <li><a href="http://www.cprogramming.com/">CProgramming</a> is great for when you have to use C or C++</li>
 <li>Oracle has both <a href="http://docs.oracle.com/javase/7/docs/api/">documentation for java</a> and a <a href="https://docs.oracle.com/javase/tutorial/">guide to java</a></li>
 <li><a href="http://www.lighthouse3d.com/">Lighthouse 3D</a> has plenty of guides for openGL</li>
-<li>If you need tools to develope, check out <a href="https://education.github.com/pack">GitHub's Student Developer Pack</a></li>
-<li>And of course, consult <a href="https://www.google.com/">Google</a></li>
+<li>And of course, you can always consult <a href="https://www.google.com/">Google</a></li>
 </ul>
 
 <h3 id="AddStuff">Adding Resources</h3>
